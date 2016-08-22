@@ -8,7 +8,7 @@
 
 * [第二单元](unit2/README.md)
     * [局域网技术](unit2/chapter5.md)
-    * 交换机及其配置
+    * [交换机及其配置](unit2/chapter6.md)
     * 路由器及其配置
     * 无线局域网设备安装与调试
 
