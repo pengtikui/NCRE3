@@ -13,7 +13,7 @@ NCRE - 网络技术学习笔记
     * [局域网技术](unit2/chapter5.md)
     * [交换机及其配置](unit2/chapter6.md)
     * [路由器及其配置](unit2/chapter7.md)
-    * 无线局域网设备安装与调试
+    * [无线局域网设备安装与调试](unit2/chapter8.md)
 * [第三单元 计算机网络信息服务系统的建立](unit3/README.md)
     * [计算机网络信息服务系统的安装与配置](unit3/chapter9.md)
 * [第四单元 计算机网络安全与管理](unit4/README.md)
